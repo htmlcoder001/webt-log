@@ -6,10 +6,10 @@ log($text, $type);
 ```
 
 #### Типы логов:
-Ошибка = 'error'
-Предупреждение = 'warning'
-Успех = 'success'
-Обычный вывод = 'default'
+- Ошибка = 'error'
+- Предупреждение = 'warning'
+- Успех = 'success'
+- Обычный вывод = 'default'
 
 #### Примеры:
 ```javascript
