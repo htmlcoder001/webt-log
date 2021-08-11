@@ -15,14 +15,9 @@ log($text, $type);
 ```javascript
 log('Функция выполнена успешно!', 'success'); 
 ```
-``` diff
-Вывод в консоль:
-+ [SUCCESS] Функция выполнена успешно!
-```
+<img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/>
+
 ```javascript
-log('Функция не выполнена!', 'error'); // Output: [ERROR] Функция не выполнена!
+log('Функция не выполнена!', 'error'); 
 ```
-``` diff
-Вывод в консоль:
-- [SUCCESS] Функция выполнена успешно!
-```
+
