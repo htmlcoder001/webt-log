@@ -20,7 +20,7 @@ log('Функция выполнена успешно!', 'success');
 ```javascript
 log('Функция не выполнена!', 'error'); 
 ```
-<img src="https://webtitov.ru/apps/webt-log/webt-log__error.svg" />
+<img src="https://webtitov.ru/apps/webt-log/webt-log_error.svg" />
 
 ```javascript
 log('В функции не указаны параметры!', 'warning'); 
@@ -30,5 +30,5 @@ log('В функции не указаны параметры!', 'warning');
 ```javascript
 log('Это стандартный лог', 'default'); 
 ```
-<img src="https://webtitov.ru/apps/webt-log/webt-log__default.svg" />
+<img src="https://webtitov.ru/apps/webt-log/webt-log_default.svg" />
 
