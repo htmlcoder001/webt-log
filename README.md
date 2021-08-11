@@ -30,5 +30,5 @@ log('В функции не указаны параметры!', 'warning');
 ```javascript
 log('Это стандартный лог', 'default'); 
 ```
-<img src="https://webtitov.ru/apps/webt-log/webt-log__default.svg?ver=3" />
+<img src="https://webtitov.ru/apps/webt-log/webt-log__default.svg?ver=4" />
 
