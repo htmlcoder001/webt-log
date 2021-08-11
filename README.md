@@ -15,9 +15,20 @@ log($text, $type);
 ```javascript
 log('Функция выполнена успешно!', 'success'); 
 ```
-<img src="http://dump.thecybershadow.net/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/>
+<img src="https://webtitov.ru/apps/webt-log/webt-log__success.svg"/>
 
 ```javascript
 log('Функция не выполнена!', 'error'); 
 ```
+<img src="https://webtitov.ru/apps/webt-log/webt-log__error.svg"/>
+
+```javascript
+log('В функции не указаны параметры!', 'warning'); 
+```
+<img src="https://webtitov.ru/apps/webt-log/webt-log__warning.svg"/>
+
+```javascript
+log('Это стандартный лог', 'default'); 
+```
+<img src="https://webtitov.ru/apps/webt-log/webt-log__default.svg"/>
 
